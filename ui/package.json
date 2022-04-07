@@ -27,7 +27,7 @@
   },
   "homepage": "http://www.athenz.io",
   "dependencies": {
-    "async": "^1.5.2",
+    "async": "^3.2.2",
     "base64url": "2.0.0",
     "cookie-parser": "1.4.3",
     "debug": "^2.2.0",
