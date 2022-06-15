@@ -29,7 +29,7 @@
     <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
     <athenz.version>1.8.15</athenz.version>
     <jackson.version>2.9.7</jackson.version>
-    <jersey.version>2.27</jersey.version>
+    <jersey.version>2.36</jersey.version>
   </properties>
 
   <dependencies>
