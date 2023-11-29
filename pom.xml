@@ -77,7 +77,7 @@
     <bouncycastle.version>1.61</bouncycastle.version>
     <aws.version>1.11.560</aws.version>
     <guava.version>27.1-jre</guava.version>
-    <logback.version>1.2.3</logback.version>
+    <logback.version>1.4.12</logback.version>
     <javax.version>3.1.0</javax.version>
     <javax.ws.version>2.1.1</javax.ws.version>
     <mockito.version>2.27.0</mockito.version>
